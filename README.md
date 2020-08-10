@@ -1,2 +1,4 @@
 # Data Science Mini Projects
- req with mini projects done by me
+ Rep with mini projects related to Data Sciencedone by me
+ 
+#Kindly ask me for the html page to run this program
