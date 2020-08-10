@@ -1,9 +1,8 @@
 from bs4 import BeautifulSoup as bs
-import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 
-soup = bs(open("skillrackdata.html"))  
+soup = bs(open("skillrackdata.html"))   #download the webpage to run without error
 table=soup.select("td.gridcell") 
 
 name=[]
