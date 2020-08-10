@@ -1,4 +1,3 @@
 # Data Science Mini Projects
- Rep with mini projects related to Data Sciencedone by me
+ Rep with mini projects related to Data Science done by me
  
-#Kindly ask me for the html page to run this program
